@@ -1,9 +1,0 @@
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/bin/Debug/netstandard2.0/SectorFundsGuide.Shared.deps.json
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/bin/Debug/netstandard2.0/SectorFundsGuide.Shared.dll
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/bin/Debug/netstandard2.0/SectorFundsGuide.Shared.pdb
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/obj/Debug/netstandard2.0/SectorFundsGuide.Shared.csprojAssemblyReference.cache
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/obj/Debug/netstandard2.0/SectorFundsGuide.Shared.csproj.CoreCompileInputs.cache
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/obj/Debug/netstandard2.0/SectorFundsGuide.Shared.AssemblyInfoInputs.cache
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/obj/Debug/netstandard2.0/SectorFundsGuide.Shared.AssemblyInfo.cs
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/obj/Debug/netstandard2.0/SectorFundsGuide.Shared.dll
-/home/geoff/Projects/SectorFundsGuide/SectorFundsGuide.Shared/obj/Debug/netstandard2.0/SectorFundsGuide.Shared.pdb
